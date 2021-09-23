@@ -26,7 +26,7 @@ a{
 #nav{
   text-align: center;
   float:right;
-  /*line-height:70px;*/
+  line-height:70px;
   width:60%;
 }
 /* Main Section Styling*/
