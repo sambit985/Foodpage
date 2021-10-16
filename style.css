@@ -28,6 +28,7 @@ a{
   float:right;
   line-height:70px;
   width:60%;
+  font-size:20px;
 }
 /* Main Section Styling*/
 #title{
@@ -48,11 +49,13 @@ a{
 }
 table{
   width:100%;
-  margin:15px;
+  margin:15px 0px;
 }
 img{
-  border-radius: 20px;
-  box-shadow: 0 0 15px black;
+  box-shadow: 0 0 20px black;
+                border-radius: 10px;
+                width: 70%;
+                height:70%;
 }
 #Burgger{
   text-align: center;
